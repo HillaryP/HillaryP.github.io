@@ -28,6 +28,12 @@ body {
 	margin: 20px;
 }
 
+#subtitle {
+	font-family: 'Quicksand';
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
 .project-tagline {
 	color: white;
 	opacity: 0.7;
