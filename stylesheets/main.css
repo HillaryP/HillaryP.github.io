@@ -46,6 +46,10 @@ body {
     color: #ECFFB0;
 }
 
+#home:hover {
+	text-decoration: none;
+}
+
 #nav_bar {
 	position: fixed;
 	top: 0;
