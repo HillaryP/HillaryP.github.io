@@ -62,15 +62,20 @@ body {
 
 #bar_links a {
 	opacity: 0.7;
-	margin-right: 7%;
+	margin-right: 5%;
 }
 
 #bar_links {
 	padding-top: 5px;
 }
 
+.work h2 {
+	font-size: 3.5rem;
+	text-align: center;
+}
+
 #page3 {
-	background-color: #FAFFD8;
+	background-color: #E5E7E6;
 }
 
 #page5 {
