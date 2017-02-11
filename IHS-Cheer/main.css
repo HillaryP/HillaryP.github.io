@@ -15,7 +15,7 @@ body {
 	padding-top: 20vh;
 	padding-bottom: 10vh;
 	text-align: center;
-	background-color: #0ABAB5;
+	background-color: #00008B;
 	margin: 0;
 	color: white;
 	z-index: 1;
@@ -55,7 +55,7 @@ h2, #page5 h1 {
 }
 
 #page3 {
-	background-color: #0ABAB5;
+	background-color: #00008B;
 }
 
 #page3 img {
@@ -69,7 +69,7 @@ h2, #page5 h1 {
     height: 100%;
     top: 0; 
     left: 0;
-    background: #0ABAB5;
+    background: #00008B;
     opacity: 0;
 }
 
@@ -108,7 +108,7 @@ h2, #page5 h1 {
 }
 
 #page5 {
-	background-color: #0ABAB5;
+	background-color: #00008B;
 	margin: 0;
 	color: white;
 	height: 50vh;
