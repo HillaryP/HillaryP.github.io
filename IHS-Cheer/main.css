@@ -131,3 +131,7 @@ h2, #page5 h1 {
 	margin: 0;
 	padding: 0;
 }
+
+#packet {
+	margin-bottom: 10vh;
+}
