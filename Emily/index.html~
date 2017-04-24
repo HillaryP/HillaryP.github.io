@@ -17,7 +17,7 @@
   <body>
     <div id="headers">
       <h1 id="title1">You Are Invited</h1>
-      <h2 id="subtitle">To Emily's Bachelorette Party Extravaganza!</h2>
+      <h2 id="subtitle">To Chelsea's Bachelorette Party Extravaganza!</h2>
       <a href="#page2"><img src="img/arrow.png" alt="arrow"></a>
     </div>
     <div id="page2" class="page">
@@ -36,25 +36,25 @@
           <div class="col-xs-2 col-xs-offset-2">
             <img src="img/breesi.jpg" class="img-circle">
             <div  class="travel_label">
-              <h3>Kera</h3>
+              <h3>Breezi</h3>
             </div>
           </div>
           <div class="col-xs-2">
             <img src="img/taylor.jpg" class="img-circle">
             <div  class="travel_label">
-              <h3>Kelly</h3>
+              <h3>Taylor</h3>
             </div>
           </div>
           <div class="col-xs-2">
             <img src="img/rachel.jpg" class="img-circle">
             <div  class="travel_label">
-              <h3>Alexa</h3>
+              <h3>Rachel</h3>
             </div>
           </div>
           <div class="col-xs-2">
             <img src="img/ella.jpg" class="img-circle">
             <div  class="travel_label">
-              <h3>Ryann</h3>
+              <h3>Ella</h3>
             </div>
           </div>
         </div>
@@ -68,19 +68,19 @@
           <div class="col-xs-2">
             <img src="img/marissa.jpg" class="img-circle">
             <div  class="travel_label">
-              <h3>Kelsey</h3>
+              <h3>Marissa</h3>
             </div>
           </div>
           <div class="col-xs-2">
             <img src="img/natalie.jpg" class="img-circle">
             <div  class="travel_label">
-              <h3>Dory</h3>
+              <h3>Natalie</h3>
             </div>
           </div>
           <div class="col-xs-2">
             <img src="img/christina.jpg" class="img-circle">
             <div  class="travel_label">
-              <h3>Savannah</h3>
+              <h3>Christina</h3>
             </div>
           </div>
         </div>
