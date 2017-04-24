@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-  	<meta charset="utf-8">
+    <meta charset="utf-8">
     <title>Invitation</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
@@ -34,25 +34,25 @@
         <h2>But First...</h2>
         <div class="container" id="first_row">
           <div class="col-xs-2 col-xs-offset-2">
-            <img src="img/breesi.jpg" class="img-circle">
+            <img src="img/Kera.jpg" class="img-circle">
             <div  class="travel_label">
               <h3>Kera</h3>
             </div>
           </div>
           <div class="col-xs-2">
-            <img src="img/taylor.jpg" class="img-circle">
-            <div  class="travel_label">
-              <h3>Kelly</h3>
-            </div>
-          </div>
-          <div class="col-xs-2">
-            <img src="img/rachel.jpg" class="img-circle">
+            <img src="img/Alexa.jpg" class="img-circle">
             <div  class="travel_label">
               <h3>Alexa</h3>
             </div>
           </div>
           <div class="col-xs-2">
-            <img src="img/ella.jpg" class="img-circle">
+            <img src="img/Kelly.jpg" class="img-circle">
+            <div  class="travel_label">
+              <h3>Kelly</h3>
+            </div>
+          </div>
+          <div class="col-xs-2">
+            <img src="img/Ryann.jpg" class="img-circle">
             <div  class="travel_label">
               <h3>Ryann</h3>
             </div>
@@ -66,13 +66,13 @@
             </div>
           </div>
           <div class="col-xs-2">
-            <img src="img/marissa.jpg" class="img-circle">
+            <img src="img/Kelsey.jpg" class="img-circle">
             <div  class="travel_label">
               <h3>Kelsey</h3>
             </div>
           </div>
           <div class="col-xs-2">
-            <img src="img/natalie.jpg" class="img-circle">
+            <img src="img/Dory.jpg" class="img-circle">
             <div  class="travel_label">
               <h3>Dory</h3>
             </div>
@@ -101,14 +101,14 @@
             <h3>How many outfits will I need?</h3>
           </div>
           <div class="col-sm-6" id="left">
-            <h3>Tuesday, September 8th, 4:00</h3>
-            <h3>Meet at Hillary and Christina's House</h3>
+            <h3>Saturday, August 12th</h3>
+            <h3>Meet at Hillary's House</h3>
             <h3>4520 Dayton Ave N, Seattle WA</h3>
             <h3>Nice of you to ask!</h3>
             <h3>Bring either some booze, or a light-ish snack to share.</h3>
             <h3>Three:</h3>
-            <h4>One that you feel comfortable in. If your name is not Chelsea, you already know what this is for ;)</h4>
-            <h4>One that you can dazzle the Seattle bar scene with</h4>
+            <h4>One that you feel comfortable in. If your name is not Emily, you already know what this is for ;)</h4>
+            <h4>One <bold>black</bold> outfit that you can dazzle the Seattle bar scene with</h4>
             <h4>One that you want to sleep in (if you make it to bed concious enough to change)</h4>
           </div>
           <hr width="50%">
@@ -119,12 +119,6 @@
     <div id="page5">
       <h1>Questions?</h1>
       <h3>Ask Hillary (253)310-1836</h3>
-      <h4>or</h4> 
-      <h3>Christina (253)549-7038</h3>
     </div>
-  	<script src="http://d3js.org/d3.v3.min.js"></script>
-  	<script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
-  	<script src="//cdnjs.cloudflare.com/ajax/libs/d3/3.4.4/d3.min.js"></script>
-  	<script src="js/d3pie.min.js"></script>
   </body>
 </html>
