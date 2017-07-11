@@ -1,5 +1,5 @@
 var psswrd = prompt("Password Please", "");
 
-if (psswrd != "Penny<3") {
+if (psswrd != "KnauerGonnaParty") {
     window.location.replace("wrong.html");
 }
