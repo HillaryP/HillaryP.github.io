@@ -13,8 +13,14 @@ body {
 
 @media (max-width:3000px) {
     .desktop-only {
-        display:none; 
+        display:none;
     }
+
+    #page4 .background_panel {
+	min-height: 300vh;
+    }
+
+    #page4 { min-height: 300vh; }
 }
 
 #headers {
