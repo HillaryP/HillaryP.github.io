@@ -17,10 +17,10 @@ body {
     }
 
     #page4 .background_panel {
-	min-height: 300vh;
+	min-height: 100vh;
     }
 
-    #page4 { min-height: 300vh; }
+    #page4 { min-height: 100vh; }
 }
 
 #headers {
