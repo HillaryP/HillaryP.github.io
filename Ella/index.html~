@@ -41,15 +41,15 @@
             </div>
           </div>
           <div class="col-xs-2">
-            <img src="img/grace.png" class="img-circle">
-            <div  class="travel_label">
-              <h3>Grace</h3>
-            </div>
-          </div>
-          <div class="col-xs-2">
             <img src="img/christina.jpg" class="img-circle">
             <div  class="travel_label">
               <h3>Christina</h3>
+            </div>
+          </div>
+          <div class="col-xs-2">
+            <img src="img/grace.png" class="img-circle">
+            <div  class="travel_label">
+              <h3>Grace</h3>
             </div>
           </div>
           <div class="col-xs-2">
@@ -67,15 +67,15 @@
             </div>
           </div>
           <div class="col-xs-2">
-            <img src="img/katie.jpg" class="img-circle">
-            <div  class="travel_label">
-              <h3>Katie</h3>
-            </div>
-          </div>
-          <div class="col-xs-2">
             <img src="img/obi.jpg" class="img-circle">
             <div  class="travel_label">
               <h3>Chelsea</h3>
+            </div>
+          </div>
+          <div class="col-xs-2">
+            <img src="img/katie.jpg" class="img-circle">
+            <div  class="travel_label">
+              <h3>Katie</h3>
             </div>
           </div>
           <div class="col-xs-2">
