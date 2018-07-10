@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
     <script src="https://maps.googleapis.com/maps/api/js"></script>
     <link href="main.css" rel="stylesheet">
-    <script type="text/javascript" src="js/ella-password.js"></script>
+    <script type="text/javascript" src="js/password.js"></script>
   </head>
   <body>
     <div id="headers">
